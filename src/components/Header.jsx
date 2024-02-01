@@ -14,7 +14,7 @@ const Header = () => {
 
       </Link>
 
-      <ul>
+      <ul className='nav__menu'>
         <li><Link to='/profile'>Kayode</Link></li>
         <li><Link to='/profile'>Create</Link></li>
         <li><Link to='/profile'>Authors</Link></li>
