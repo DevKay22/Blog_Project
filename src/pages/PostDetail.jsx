@@ -15,7 +15,7 @@ const PostDetail = () => {
           <Link to={`/posts/wrwe/delete`} className='btn sm danger'>Delete</Link>
         </div>
       </div>
-      <h1>Thisis the post title</h1>
+      <h1>This is the post title</h1>
       <div className="post-detail__thumbnail">
           <img src={Thumbnail} alt="" />
       </div>

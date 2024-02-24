@@ -32,7 +32,7 @@ const UserProfile = () => {
               <FaCheck/>
             </button>
           </div>
-          <h1>Tobi Osameyan</h1>
+          <h1>Kay David</h1>
           {/* Form to update user details */}
           <form className="form profile__form">
             <p className='form__error-message'>This is an error message</p>

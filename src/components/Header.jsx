@@ -15,10 +15,10 @@ const Header = () => {
       </Link>
 
       <ul className='nav__menu'>
-        <li><Link to='/profile'>Kayode</Link></li>
-        <li><Link to='/profile'>Create</Link></li>
-        <li><Link to='/profile'>Authors</Link></li>
-        <li><Link to='/profile'>Logout</Link></li>
+        <li><Link to='/profile/:id'>Kayode</Link></li>
+        <li><Link to='/create'>Create</Link></li>
+        <li><Link to='/authors'>Authors</Link></li>
+        <li><Link to='/logout'>Logout</Link></li>
 
       </ul>
 
